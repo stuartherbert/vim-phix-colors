@@ -66,6 +66,7 @@ let colors_name = "phix"
 :hi phpDefineFuncProto guifg=#a7ed65 gui=italic ctermfg=155
 :hi phpStructureHere guifg=#a7ed65 gui=italic ctermfg=155
 :hi phpDefineClassName guifg=#a4c460 ctermfg=149
+:hi phpFuncBlock guifg=#a4c460 ctermfg=149
 :hi phpDefineMethodName guifg=#a4c460 ctermfg=149
 :hi phpSpecialMethods guifg=#a7ed65 ctermfg=149
 :hi phpMethodsVar guifg=#a4c460 ctermfg=149
@@ -77,6 +78,7 @@ let colors_name = "phix"
 :hi phpVarSelector guifg=#f8fa83 ctermfg=229
 :hi phpArrayParens guifg=#CA729E ctermfg=176
 :hi phpArrayPair guifg=#e09146 ctermfg=215
+:hi phpBrace guifg=#CA729E ctermfg=176
 
 :hi phpParent guifg=#e6e0db ctermfg=254
 :hi phpBraceFunc guifg=#e6e0db ctermfg=254
@@ -88,3 +90,5 @@ let colors_name = "phix"
 :hi phpDocTags guifg=#e09146 ctermfg=215
 :hi phpFunctions guifg=#a7ed65 ctermfg=155
 :hi phpSpecialFunctions guifg=#a7ed65 ctermfg=155
+:hi phpParentRegion guifg=#a7ed65 ctermfg=155
+:hi phpStaticCall guifg=#a4c460 ctermfg=149
