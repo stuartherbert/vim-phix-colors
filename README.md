@@ -8,11 +8,11 @@ It isn't a 100% perfect port, due to the differences in syntax highlighting betw
 
 Inside vim from the console:
 
-![Phix Color Scheme inside vim w/ xterm-256](https://github.com/stuartherbert/vim-phix-colors/blob/master/examples/vim-xterm-256.png)
+![Phix Color Scheme inside vim w/ xterm-256](https://raw.github.com/stuartherbert/vim-phix-colors/master/examples/vim-xterm-256.png)
 
 and inside GVim on Ubuntu 12.10:
 
-![Phix Color Scheme inside GVim](https://github.com/stuartherbert/vim-phix-colors/blob/master/examples/vim-gvim.png)
+![Phix Color Scheme inside GVim](https://raw.github.com/stuartherbert/vim-phix-colors/master/examples/vim-gvim.png)
 
 ## How To Install
 
