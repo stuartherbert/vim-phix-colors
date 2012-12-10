@@ -90,5 +90,6 @@ let colors_name = "phix"
 :hi phpDocTags guifg=#e09146 ctermfg=215
 :hi phpFunctions guifg=#a7ed65 ctermfg=155
 :hi phpSpecialFunctions guifg=#a7ed65 ctermfg=155
+:hi phpStatementRegion guifg=#a7ed65 ctermfg=155
 :hi phpParentRegion guifg=#a7ed65 ctermfg=155
 :hi phpStaticCall guifg=#a4c460 ctermfg=149
